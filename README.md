@@ -3,29 +3,42 @@
 I am manual QA from 2020 and now I'm growing as Testing Automation Engineer.  
 🌱 I'm currently learning Java for AQA  
 🌍 Speak Russian (native), English (B1), German (A1-A2)  
+💼 Now working in [Newton Technology](https://nwtn.io/)
 
-My workingplaces:
-<table >
-   <tr> 
-    <td><img src="/src/images/EPAM_LOGO-RGB_Primary.jpg" width="300" height="150"></td> <td align="middle">EPAM Systems</td></tr>
-    <tr><td align="center"><img src="/src/images/kkSocTwOxoQ.jpg" width="200" height="200" ></td><td align="middle">Ньютон Технологии (Инвестиции)</td>
-   </tr>
-  </table>
 
 I have working experience with tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="30" height = "30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="30" height = "30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height = "30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="30" height = "30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="30" height = "30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30" height = "30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height = "30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="30" height = "30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="30" height = "30"/>
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="src/logo/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="src/logo/Java.svg">
+<img width="6%" title="Selenide" src="src/logo/Selenide.svg">
+<img width="6%" title="Selenoid" src="src/logo/Selenoid.svg">
+<img width="6%" title="Allure Report" src="src/logo/Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="src/logo/AllureTestOps.svg">
+<img width="6%" title="Gradle" src="src/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="src/logo/JUnit5.svg">
+<img width="6%" title="GitHub" src="src/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="src/logo/Jenkins.svg">
+<img width="6%" title="Maven" src="src/logo/Maven.svg">
+<img width="5%" title="Jira" src="src/logo/Jira.svg">
+</p>
+
+## 💻 Pet-projects
+- <a target="_blank" href="https://github.com/Ksanjara/digdes-tests">DigDes</a> - Test automation project for website "Digital Design" company
+- <a target="_blank" href="https://github.com/Ksanjara/restful-booker-api-tests">Restful-booker-api</a> - Test automation project for API.
+- <a target="_blank" href="https://github.com/Ksanjara/qa_guru_mobile_hw">Wikipedia</a> - Test automation project for mobile app "Wikipedia".
 
 
+## 💹 My stats
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksanjara&theme=blueberry" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksanjara&layout=compact&theme=blueberry" alt="Languages">
 
+## 💬 Ways to reach me:
 
+- <img width="5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/ksanjara">@Ksanjara</a>
+
+- <img width="5%" title="Telegram" src="src/logo/Linkedin.svg"> <a target="_blank" href="https://www.linkedin.com/in/kseniia-kuznetsova-a114a71ba/">LinkedIn</a>
+- [Email](mailto:ksandrasky@ya.ru)
 
 
 <!--
