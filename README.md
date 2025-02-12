@@ -35,10 +35,10 @@ I have working experience with tools:
 
 ## 💬 Ways to reach me:
 
-- <img width="5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/ksanjara">@Ksanjara</a>
+- <img width="2.5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/ksanjara">@Ksanjara</a>
 
-- <img width="5%" title="Telegram" src="src/logo/Linkedin.svg"> <a target="_blank" href="https://www.linkedin.com/in/kseniia-kuznetsova-a114a71ba/">LinkedIn</a>
-- [Email](mailto:ksandrasky@ya.ru)
+- <img width="2.5%" title="Telegram" src="src/logo/Linkedin.svg"> <a target="_blank" href="https://www.linkedin.com/in/kseniia-kuznetsova-a114a71ba/">LinkedIn</a>
+- 📝 [Email](mailto:ksandrasky@ya.ru)
 
 
 <!--
